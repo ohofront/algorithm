@@ -1,0 +1,1 @@
+정수 num1 과 num2가 주어질때 , num1에서 num2를 뺸값을 returnun 하도록 solution 함수를 완성해주세요
