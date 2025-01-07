@@ -16,7 +16,7 @@ completion의 길이는 pariticpant의 길이보다 1 작습니다.
 
 입출력 예
 
-|participant|completion|return
+|participant|completion|return|
 |-----------------------|----------------------|-----------------|
 ["leo", "kiki", "eden"]|["eden", "kiki"]|"leo"|
 ["marina", "josipa", "nikola", "vinko", "filipa"]|["josipa", "filipa", "marina", "nikola"]|"vinko"|
