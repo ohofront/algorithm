@@ -4,8 +4,7 @@
 JavaScript(Node.js)로 다양한 알고리즘 문제를 해결하고 정리합니다.  
 
 ## 📂 폴더 구조
-📁 algorithm 
- 
+📁 algorithm   
  ┣ 📂 백준          # 백준 문제 풀이 폴더  
  ┃ ┣ 📜 1000.js         # 예제 문제 파일 (A+B)  
  ┃ ┗ 📜 input.txt       # 테스트용 입력 파일  
